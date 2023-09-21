@@ -1,4 +1,4 @@
-#### PostgreSQL
+### PostgreSQL
 
 É um Sistema Gerenciador de Bancos de Dados (SGBD) relacional que permite armazenar, consultar e manipular dados de inúmeras formas. Dentre seus diversos diferenciais está a linguagem PL/pgSQL.
 
